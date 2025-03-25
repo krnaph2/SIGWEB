@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            [
+              110.41042822838347,
+              -7.8613442791590415
+            ],
+            [
+              110.41066278153829,
+              -7.859909522737311
+            ],
+            [
+              110.40905022859977,
+              -7.85968298179624
+            ],
+            [
+              110.41038735309786,
+              -7.848976673579742
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        },
+        "geometry": {
+          "coordinates": [
+            110.41037131056834,
+            -7.859316086306677
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Pleret",
+          "alamat": "Jl. Imogiri Timur, Wonokromo, Pleret, Bantul, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.3897192325457,
+            -7.864229362623107
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Banguntapan II",
+          "alamat": "Jl. Pasopati No.99, Krobokan, Tamanan, Banguntapan, Bantul, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38356218412292,
+            -7.844585277744571
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Banguntapan I",
+          "alamat": "Jl. Ngipik, Wiyoro, Baturetno, Banguntapan, Bantul, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.41395986549418,
+            -7.829109423977641
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Pembantu Giwangan",
+          "alamat": "Jl. Imogiri Timur, Giwangan, Umbulharjo, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.39143641395168,
+            -7.83257730210731
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Sewon I",
+          "alamat": "Jl. Parangtritis No.Km. 7, Dadapan, Timbulharjo, Sewon, Bantul, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.35339423250622,
+            -7.860888004512702
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Sewon II",
+        "alamat": "Jl. Parangtritis No.Km. 6, Tarudan, Bangunharjo, Sewon, Bantul, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36038119314992,
+            -7.847412092233071
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }
