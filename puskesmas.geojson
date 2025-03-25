@@ -3,51 +3,9 @@
     "features": [
       {
         "type": "Feature",
-        "properties": {},
-        "geometry": {
-          "coordinates": [
-            [
-              110.41042822838347,
-              -7.8613442791590415
-            ],
-            [
-              110.41066278153829,
-              -7.859909522737311
-            ],
-            [
-              110.40905022859977,
-              -7.85968298179624
-            ],
-            [
-              110.41038735309786,
-              -7.848976673579742
-            ]
-          ],
-          "type": "LineString"
-        },
-        "id": 0
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "marker-color": "#7e7e7e",
-          "marker-size": "medium",
-          "marker-symbol": "circle"
-        },
-        "geometry": {
-          "coordinates": [
-            110.41037131056834,
-            -7.859316086306677
-          ],
-          "type": "Point"
-        },
-        "id": 1
-      },
-      {
-        "type": "Feature",
         "properties": {
           "name": "Puskesmas Pleret",
-          "alamat": "Jl. Imogiri Timur, Wonokromo, Pleret, Bantul, Yogyakarta"
+          "alamat": "Jl. Imogiri Timur No.KM, RW.9, Jati, Wonokromo, Pleret, Bantul, Yogyakarta"
         },
         "geometry": {
           "coordinates": [
@@ -56,7 +14,7 @@
           ],
           "type": "Point"
         },
-        "id": 2
+        "id": 0
       },
       {
         "type": "Feature",
@@ -71,7 +29,7 @@
           ],
           "type": "Point"
         },
-        "id": 3
+        "id": 1
       },
       {
         "type": "Feature",
@@ -99,7 +57,8 @@
             -7.83257730210731
           ],
           "type": "Point"
-        }
+        },
+        "id": 3
       },
       {
         "type": "Feature",
@@ -113,18 +72,220 @@
             -7.860888004512702
           ],
           "type": "Point"
-        }
+        },
+        "id": 4
       },
       {
         "type": "Feature",
         "properties": {
-        "name": "Puskesmas Sewon II",
-        "alamat": "Jl. Parangtritis No.Km. 6, Tarudan, Bangunharjo, Sewon, Bantul, Yogyakarta"
+          "name": "Puskesmas Sewon II",
+          "alamat": "Jl. Parangtritis No.Km. 6, Tarudan, Bangunharjo, Sewon, Bantul, Yogyakarta"
         },
         "geometry": {
           "coordinates": [
             110.36038119314992,
             -7.847412092233071
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Jetis I",
+          "alamat": "Jl. Imogiri Barat No.Km.12, RW.05, Ponggok I, Trimulyo, Jetis, Bantul, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37517256056827,
+            -7.897806655973653
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Imogiri I",
+          "alamat": "Barepan, Karangtalun, Imogiri, Bantul, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38020711490896,
+            -7.91987159895946
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Kasihan I",
+          "alamat": "Jl. Bibis, Ngentak, Bangunjiwo, Kasihan, Bantul, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.31215717869031,
+            -7.838368844078275
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Kotagede I",
+          "alamat": "Jl. Kemasan No.12, Prenggan, Kotagede, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.40046593304487,
+            -7.822153985755378
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Kotagede II",
+          "alamat": "Jl. Ki Penjawi No.4, Rejowinangun, Kotagede, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.39464189683923,
+            -7.81372236457284
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Umbulharjo I",
+          "alamat": "Jl. Veteran No.43, Muja Muju, Umbulharjo, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.39478293611012,
+            -7.8062492900427
+          ],
+          "type": "Point"
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Umbulharjo II",
+          "alamat": "Jl. Hibrida No.194, Muja Muju, Umbulharjo, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38970853298076,
+            -7.800202522902666
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Depok I",
+          "alamat": "Nanggulan, Maguwoharjo, Depok, Sleman, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.4314132017218,
+            -7.774895065481502
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Depok II",
+          "alamat": "Jl. Lely III, Perumnas Condong Catur, Condongcatur, Depok, Sleman, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.40818202158096,
+            -7.756566307376346
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Depok III",
+          "alamat": "Jl. Komp. Colombo No.50a, Mrican, Caturtunggal, Depok, Sleman, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38944492921445,
+            -7.778258021744122
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Mlati I",
+          "alamat": "Jl. Wijaya Kusuma, Kutu Tegal, Sinduadi, Mlati, Sleman, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36287220614167,
+            -7.754454100565766
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Mlati II",
+          "alamat": "Jl. Kebon Agung No.4, Cabakan, Sumberadi, Mlati, Sleman, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.32807591423375,
+            -7.732462220336188
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Ngaglik I",
+          "alamat": "Kaliurang St No.10, Gondangan, Sardonoharjo, Ngaglik, Sleman, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.40273135495158,
+            -7.722132805232761
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Ngaglik II",
+          "alamat": "Jl. Palagan Tentara Pelajar, Gondong, Donoharjo, Pakem, Sleman, Yogyakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38869660843261,
+            -7.689725699113993
           ],
           "type": "Point"
         }
